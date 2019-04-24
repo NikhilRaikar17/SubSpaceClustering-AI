@@ -35,7 +35,7 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-
+```
 .
 +-- _config.yml
 +-- _drafts
@@ -54,7 +54,7 @@ End with an example of getting some data out of the system or using it for a lit
 |   +-- members.yml
 +-- _site
 +-- index.html
-
+```
 
 ## Deployment
 
