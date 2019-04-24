@@ -8,11 +8,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-*[Create-react-app](https://github.com/facebook/create-react-app) 
-*[NodeJs](https://nodejs.org/en/)
-*[Bootstrap](https://getbootstrap.com/)
-*[FontAwesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
-*[ExpressJs](https://expressjs.com/)
+* [Create-react-app](https://github.com/facebook/create-react-app) 
+* [NodeJs](https://nodejs.org/en/)
+* [Bootstrap](https://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
+* [ExpressJs](https://expressjs.com/)
 
 ```
 Give examples
